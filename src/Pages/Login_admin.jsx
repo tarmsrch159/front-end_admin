@@ -104,7 +104,7 @@ function Login_admin() {
                                                         <input type="checkbox" className="custom-control-input" id="customCheck" />
                                                     </div>
                                                 </div>
-                                                <button className="btn btn-primary btn-user btn-block" onClick={submit}> Login </button>
+                                                <button className="btn btn-primary btn-user btn-block" onClick={submit}> เข้าสู่ระบบ </button>
                                                 
 
                                                 <hr />
